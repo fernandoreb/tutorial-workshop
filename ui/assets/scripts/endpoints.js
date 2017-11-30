@@ -4,7 +4,7 @@
 
 const address = {
 // Paste Auth Endpoint below //
-	"auth": "",
+	"auth": "auth-fargtutorial.wedeploy.io",
 // Paste Auth Endpoint above //
 // Paste Data Endpoint above //
 	"data": ""
